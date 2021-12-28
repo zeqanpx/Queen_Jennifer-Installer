@@ -1,4 +1,6 @@
-FROM ravindu01manoj/sewqueen:lovegift
+FROM quay.io/lyfe00011/test:beta
+# FROM blackamda/queenamdi:public
+# FROM ravindu01manoj/sewqueen:lovegift
 
 RUN git clone https://github.com/zeqanpx/Queen_Jennifer.git /root/WhatsAsenaDuplicated
 WORKDIR /root/WhatsAsenaDuplicated/
