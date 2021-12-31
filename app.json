@@ -54,7 +54,7 @@
             "required": false,
             "value": "true"
         },
-                },
+
         "BOT_PAS_CODE": {
             "description": "IF YOU WONT DEPLOY MY BOT. | Enter Bot Password. |More Detles: (+94781564565)",
             "required": false,
