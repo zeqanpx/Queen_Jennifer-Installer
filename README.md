@@ -1,7 +1,7 @@
 
 # Queen Jennifer Whats-app user bot
 
-- WhatsAsena project - Makes it easy and fun to use Whatsapp. Also  userbot for Whatsapp
+- WhatsAsena project - Makes it easy and fun to use Whatsapp. Also  userbot for Whatsapp.
 
 # Thanks for Everything
 
